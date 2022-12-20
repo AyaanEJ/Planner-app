@@ -1,0 +1,7 @@
+*.Dart linguist-detectable=true
+*.C++ linguist-detectable=false  
+*.CMake linguist-detectable=false
+*.HTML linguist-detectable=false  
+*.Swift linguist-detectable=false
+*.C linguist-detectable=false
+*.Other linguist-detectable=false  
